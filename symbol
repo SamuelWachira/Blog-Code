@@ -1,0 +1,3 @@
+symbol=input('What is the Security Symbol? ');
+link='http://markets.ft.com/data/equities/tearsheet/historical?s=';
+fullurl=[link,symbol];
